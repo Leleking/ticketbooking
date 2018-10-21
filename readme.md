@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Want to build a web app for booking tickets for movies and make life easy, this repo out and have fun. This is ticket booking system for the cinemas. This system was built with laravel it has the user view and the admin view in there with a QRcode generator the user after buying the ticket and a QRcode reader the the admin to scan the ticket (QRcode) to get the ticket information. Have fun
+Want to build a web app for booking tickets for movies and make life easy,check this repo out and have fun. This is ticket booking system for the cinemas. This system was built with laravel it has the user view and the admin view in there with a QRcode generator the user after buying the ticket and a QRcode reader the the admin to scan the ticket (QRcode) to get the ticket information. Have fun
